@@ -1,1 +1,65 @@
-[{"name":"无","type":"local","author":"无","filename":"jiuge.mp3","id":"10614998158"},{"name":"无","type":"local","author":"无","filename":"fengling.mp3","id":"10228204205"},{"name":"无","type":"local","author":"Lana Del Rey","filename":"Lana Del Rey - Young And Beautiful.mp3","id":"7658476551"},{"name":"无","type":"local","author":"无","filename":"Shawn Mendes&Camila Cabello - Señorita.mp3","id":"8379885815"},{"name":"无","type":"local","author":"无","filename":"We Dont Talk Anymore.mp3","id":"8776672762"},{"name":"无","type":"local","author":"无","filename":"xialian.mp3","id":"12068688797"},{"name":"kuwo","type":"local","author":"kuwo","filename":"Christopher - Told You So.mp3","id":"6745502390"},{"name":"无","type":"local","author":"无","filename":"zhishui.mp3","id":"12229732371"},{"name":"无","type":"local","author":"无","filename":"ye.mp3","id":"12140546496"}]
+[
+    {
+        "name": "天行九歌",
+        "type": "local",
+        "author": "澈心",
+        "filename": "jiuge.mp3",
+        "id": "10657826920"
+    },
+    {
+        "name": "Young And Beautiful",
+        "type": "local",
+        "author": "Lana Del Rey",
+        "filename": "Lana Del Rey - Young And Beautiful.mp3",
+        "id": "7636759442"
+    },
+    {
+        "name": "Señorita",
+        "type": "local",
+        "author": "Shawn Mendes&Camila Cabello",
+        "filename": "Shawn Mendes&Camila Cabello - Señorita.mp3",
+        "id": "8347828107"
+    },
+    {
+        "name": "We Dont Talk Anymore",
+        "type": "local",
+        "author": "Charlie Puth/Selena Gomez",
+        "filename": "We Dont Talk Anymore.mp3",
+        "id": "8750251862"
+    },
+    {
+        "name": "夏恋",
+        "type": "local",
+        "author": "Otokaze",
+        "filename": "xialian.mp3",
+        "id": "12045823923"
+    },
+    {
+        "name": "日陰と帽子と風鈴と",
+        "type": "local",
+        "author": "Foxtail-Grass Studio",
+        "filename": "fengling.mp3",
+        "id": "10212515117"
+    },
+    {
+        "name": "心如止水",
+        "type": "local",
+        "author": "Ice Paper",
+        "filename": "zhishui.mp3",
+        "id": "12233786861"
+    },
+    {
+        "name": "Told You So",
+        "type": "local",
+        "author": "Christopher",
+        "filename": "Christopher - Told You So.mp3",
+        "id": "673662995"
+    },
+    {
+        "name": "夜、萤火虫和你",
+        "type": "local",
+        "author": "AniFace",
+        "filename": "ye.mp3",
+        "id": "12114477660"
+    }
+]
